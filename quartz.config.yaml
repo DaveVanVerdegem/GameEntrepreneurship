@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Course Notes
+  pageTitle: Game Entrepreneurship
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: YOUR-USERNAME.github.io/YOUR-REPO
+  baseUrl: davevanverdegem.github.io/GameEntrepreneurship
   ignorePatterns:
     - private
     - templates
@@ -229,7 +229,7 @@ plugins:
     enabled: true
     options:
       links:
-        Source on GitHub: https://github.com/YOUR-USERNAME/YOUR-REPO
+        Source on GitHub: https://davevanverdegem.github.io/GameEntrepreneurship
     layout:
       position: footer
       priority: 50
